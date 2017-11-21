@@ -1,4 +1,4 @@
-# Simple Weather App
+# Simple Redux Blog
 
 ### Technologies
 A simple weather web app using: React, Redux, ReactReduxSimpleStarter, React Router, bootstrap.
